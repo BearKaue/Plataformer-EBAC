@@ -2080,7 +2080,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1180490925897280339, guid: 3af22186f32d44e4a842be9b37b30fe2, type: 3}
       propertyPath: m_text
-      value: Menu
+      value: Pause
       objectReference: {fileID: 0}
     - target: {fileID: 2411511162863632386, guid: 3af22186f32d44e4a842be9b37b30fe2, type: 3}
       propertyPath: m_Color.b
@@ -2096,7 +2096,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6352554753618053938, guid: 3af22186f32d44e4a842be9b37b30fe2, type: 3}
       propertyPath: m_Name
-      value: PFB_Menu
+      value: PFB_Pause
       objectReference: {fileID: 0}
     - target: {fileID: 6996142941509637702, guid: 3af22186f32d44e4a842be9b37b30fe2, type: 3}
       propertyPath: m_Pivot.x
@@ -2177,6 +2177,18 @@ PrefabInstance:
     - target: {fileID: 6996142941509637702, guid: 3af22186f32d44e4a842be9b37b30fe2, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7899625880117462843, guid: 3af22186f32d44e4a842be9b37b30fe2, type: 3}
+      propertyPath: m_Colors.m_HighlightedColor.b
+      value: 0.9150943
+      objectReference: {fileID: 0}
+    - target: {fileID: 7899625880117462843, guid: 3af22186f32d44e4a842be9b37b30fe2, type: 3}
+      propertyPath: m_Colors.m_HighlightedColor.g
+      value: 0.9150943
+      objectReference: {fileID: 0}
+    - target: {fileID: 7899625880117462843, guid: 3af22186f32d44e4a842be9b37b30fe2, type: 3}
+      propertyPath: m_Colors.m_HighlightedColor.r
+      value: 0.047481313
       objectReference: {fileID: 0}
     - target: {fileID: 7899625880117462843, guid: 3af22186f32d44e4a842be9b37b30fe2, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
